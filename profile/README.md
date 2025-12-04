@@ -1,35 +1,30 @@
-<div align="center">
+![KI.M Logo](../assets/KIMLogo.png)
 
-![KI.M Logo](../assets/WebsiteLogo.png)
-
-# KI.M - KI Kompetenzzentrum Medien
+# KI-Kompetenzzentrum Medien (KI.M)
 
 Testing AI applications in a secure, data-sovereign environment for Bavaria's media industry.
 
-[Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/)
+[Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/) (in German language only)
 
-</div>
 
 ## About Us
 
-The KI.M (AI Competence Center Media) is the central hub for artificial intelligence in Bavaria's media industry. We support media companies in adopting AI solutions that are legally compliant, future-proof, and built on data-sovereign infrastructure.
+The KI-Kompetenzzentrum Medien (KI.M) is the central hub for artificial intelligence in Bavaria's media industry. We support media companies in adopting AI solutions that are legally compliant, future-proof, and built on data-sovereign infrastructure.
 
 We provide independent information and hands-on demonstrations of AI capabilities and limitations in media applications. Through our AI Lab, we collaborate with partners to test real-world implementations. Our feasibility studies are published as reports on our website, while the technical foundations and code are shared here in our repositories.
 
-KI.M is a joint initiative of the Bavarian Regulatory Authority for Commercial Broadcasting (BLM) and Medien.Bayern, supported by the Bavarian State Chancellery.
+The KI.M is a joint initiative of the Bayrische Landeszentrale für neue Medien (BLM) and Medien.Bayern GmbH, supported by the Bavarian State Chancellery.
 
-**Learn more:** [Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/)
+**Learn more:** [Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/) (in German language only)
 
-
-<img src="../assets/KI_reallabor.png" alt="AI Lab Collaboration" width="70%">
 
 ## Using Our Resources
 
 Our repositories contain the technical implementations from our AI Lab projects. In combination with a report each project includes:
 
-- :books:**Code & Documentation**: Ready-to-explore implementations with detailed technical documentation
-- :point_up:**Legal Considerations**: We highlight relevant legal aspects to be aware of when deploying similar solutions
-- :newspaper:**Project Reports**: Comprehensive feasibility studies explaining use cases, methodologies, and findings
+- :books: **Code & documentation**: Ready-to-explore implementations with detailed technical documentation
+- :point_up: **Legal considerations**: We highlight relevant legal aspects to be aware of when deploying similar solutions
+- :newspaper: **Project reports**: Comprehensive feasibility studies explaining use cases, methodologies, and findings
 
 > [!IMPORTANT]
 > All code is designed for on-premise deployment, ensuring full data sovereignty and independence from cloud services.
@@ -45,31 +40,29 @@ Explore our finished projects and their detailed reports to learn from real-worl
 
 ## Have an AI Idea? Apply to Our Lab!
 
-<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="25%">
-
-:bulb:**Your Idea. Our Expertise. A Shared Prototype.**
+:bulb:**Your idea. Our expertise. One shared prototype.**
 
 Got an innovative AI concept for your media company but lack the resources to create and test it? Our AI Lab can help.
 
 ### What We Offer
 
-- :free:**Free Access**: No cost to participate
-- :computer:**Expert Development**: Our team builds prototypes with your guidance
-- :gear:**On-Premise Testing**: All processing happens locally on our infrastructure
-- :page_with_curl:**Complete Documentation**: Receive detailed reports with technical insights
-- :new:**Knowledge Sharing**: Anonymized learnings benefit Bavaria's entire media industry
+- :free: **Free access**: No cost to participate
+- :computer: **Expert development**: Our team builds prototypes with your guidance
+- :gear: **On-Premise testing**: All processing happens locally on our infrastructure
+- :page_with_curl: **Complete documentation**: Receive detailed reports with technical insights
+- :new: **Knowledge sharing**: Anonymized learnings benefit Bavaria's entire media industry
 
-### How It Works
+### How it Works
 
-1. **Submit Your Idea**: Tell us what you want to achieve
-2. **We Review**: We check feasibility and current capacity
-3. **Collaborative Development**: We build a prototype together
-4. **You Get Results**: Detailed report to inform your implementation decisions
+1. **Submit your idea**: Tell us what you want to achieve
+2. **We review**: We check feasibility and current capacity
+3. **Collaborative development**: We build a prototype together
+4. **You get results**: Detailed report to inform your implementation decisions
 
 Applications are open to all Bavarian media companies, from local radio stations to major publishers.
 
-:question:**Ready to innovate?** [Apply with your AI idea](https://medien-bayern.de/ki-kompetenzzentrum-medien/das-ki-reallabor/)
+**Ready to innovate?** [Apply with your AI idea](https://medien-bayern.de/ki-kompetenzzentrum-medien/das-ki-reallabor/)
 
----
-<sub>Always reach out to us via E-Mail for questions about our initiative, offers and projects.</sub>
-<sub>KI.M is funded by the Bavarian State Chancellery and operated by BLM as part of Medien.Bayern GmbH</sub>
+
+<sub>Always reach out to us via e-mail for questions about our projects and offers.</sub>
+<sub>The KI.M is funded by the Bavarian State Chancellery and operated by BLM as part of Medien.Bayern GmbH</sub>
