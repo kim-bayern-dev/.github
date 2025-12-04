@@ -21,9 +21,9 @@ KI.M is a joint initiative of the Bavarian Regulatory Authority for Commercial B
 **Learn more:** [Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/)
 
 
-## Using Our Resources
+<img src="../assets/KI_reallabor.png" alt="AI Lab Collaboration" width="70%">
 
-![Code Repository](../assets/KI_reallabor.png)
+## Using Our Resources
 
 Our repositories contain the technical implementations from our AI Lab projects. In combination with a report each project includes:
 
@@ -36,7 +36,6 @@ Our repositories contain the technical implementations from our AI Lab projects.
 
 
 ## Completed Projects
-<img src="../assets/medienBayernbarcode.png" alt="AI Lab Collaboration" width="60%">
 
 Explore our finished projects and their detailed reports to learn from real-world AI implementations in media contexts. Each report includes technical insights, challenges encountered, and practical recommendations.
 
@@ -46,7 +45,7 @@ Explore our finished projects and their detailed reports to learn from real-worl
 
 ## Have an AI Idea? Apply to Our Lab!
 
-<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="35%">
+<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="25%">
 
 :bulb:**Your Idea. Our Expertise. A Shared Prototype.**
 
