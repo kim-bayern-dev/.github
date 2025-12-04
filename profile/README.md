@@ -2,7 +2,7 @@
 
 ![KI.M Logo](../assets/WebsiteLogo.png)
 
-# KI.M - AI Competence Center Media
+# KI.M - KI Kompetenzzentrum Medien
 
 Testing AI applications in a secure, data-sovereign environment for Bavaria's media industry.
 
@@ -20,7 +20,6 @@ KI.M is a joint initiative of the Bavarian Regulatory Authority for Commercial B
 
 **Learn more:** [Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/)
 
----
 
 ## Using Our Resources
 
@@ -35,22 +34,19 @@ Our repositories contain the technical implementations from our AI Lab projects.
 > [!IMPORTANT]
 > All code is designed for on-premise deployment, ensuring full data sovereignty and independence from cloud services.
 
----
 
 ## Completed Projects
-
-![Projects Overview](../assets/medienBayernbarcode.png)
+<img src="../assets/medienBayernbarcode.png" alt="AI Lab Collaboration" width="60%">
 
 Explore our finished projects and their detailed reports to learn from real-world AI implementations in media contexts. Each report includes technical insights, challenges encountered, and practical recommendations.
 
 > [!NOTE]
 > **Browse all project reports:** [View Projects](https://medien-bayern.de/news/ki-kompetenzzentrum-medien/werkstattberichte/)
 
----
 
 ## Have an AI Idea? Apply to Our Lab!
 
-<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="40%">
+<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="35%">
 
 :bulb:**Your Idea. Our Expertise. A Shared Prototype.**
 
