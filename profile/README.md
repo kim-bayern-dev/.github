@@ -1,6 +1,6 @@
 <div align="center">
 
-![KI.M Logo](assets/WebsiteLogo.png)
+![KI.M Logo](../assets/WebsiteLogo.png)
 
 # KI.M - AI Competence Center Media
 
@@ -24,7 +24,7 @@ KI.M is a joint initiative of the Bavarian Regulatory Authority for Commercial B
 
 ## Using Our Resources
 
-![Code Repository](assets/KI_reallabor.png)
+![Code Repository](../assets/KI_reallabor.png)
 
 Our repositories contain the technical implementations from our AI Lab projects. In combination with a report each project includes:
 
@@ -39,7 +39,7 @@ Our repositories contain the technical implementations from our AI Lab projects.
 
 ## Completed Projects
 
-![Projects Overview](assets/medienBayernbarcode.png)
+![Projects Overview](../assets/medienBayernbarcode.png)
 
 Explore our finished projects and their detailed reports to learn from real-world AI implementations in media contexts. Each report includes technical insights, challenges encountered, and practical recommendations.
 
@@ -50,7 +50,7 @@ Explore our finished projects and their detailed reports to learn from real-worl
 
 ## Have an AI Idea? Apply to Our Lab!
 
-<img src="assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="40%">
+<img src="../assets/ki-reallabor-apply.png" alt="AI Lab Collaboration" width="40%">
 
 :bulb:**Your Idea. Our Expertise. A Shared Prototype.**
 
