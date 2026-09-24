@@ -15,7 +15,7 @@ We provide independent information and hands-on demonstrations of AI capabilitie
 
 The KI.M is a joint initiative of the Bayrische Landeszentrale für neue Medien (BLM) and Medien.Bayern GmbH, supported by the Bavarian State Chancellery.
 
-**Learn more:** [Visit our website](https://medien-bayern.de/ki-kompetenzzentrum-medien/) (in German language only)
+**Learn more:** [Visit our website](https://www.kim-bayern.de/) (in German language only)
 
 
 ## Using Our Resources
@@ -35,7 +35,7 @@ Our repositories contain the technical implementations from our AI Lab projects.
 Explore our finished projects and their detailed reports to learn from real-world AI implementations in media contexts. Each report includes technical insights, challenges encountered, and practical recommendations.
 
 > [!NOTE]
-> **Browse all project reports:** [View Projects](https://medien-bayern.de/news/ki-kompetenzzentrum-medien/werkstattberichte/)
+> **Browse all project reports:** [View Projects](https://www.kim-bayern.de/reallabor)
 
 
 ## Have an AI Idea? Apply to Our Lab!
@@ -61,7 +61,7 @@ Got an innovative AI concept for your media company but lack the resources to cr
 
 Applications are open to all Bavarian media companies, from local radio stations to major publishers.
 
-**Ready to innovate?** [Apply with your AI idea](https://medien-bayern.de/ki-kompetenzzentrum-medien/das-ki-reallabor/)
+**Ready to innovate?** [Apply with your AI idea](https://www.kim-bayern.de/in-drei-schritten-zum-open-source-prototypen)
 
 
 <sub>Always reach out to us via e-mail for questions about our projects and offers.</sub>
